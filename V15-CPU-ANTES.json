@@ -1,0 +1,118 @@
+{
+  "date": "2026-09-08T23:59:59.507Z",
+  "environment": {
+    "node": "v24.19.0",
+    "cpu": "Intel(R) Xeon(R) Platinum 8370C CPU @ 2.80GHz",
+    "platform": "linux",
+    "gpu": "Not available; no WebGL rendering"
+  },
+  "buildMs": 3560.799533,
+  "inventory": {
+    "meshes": 1154,
+    "instances": 44835,
+    "trianglesAllLods": 3939951,
+    "lights": 104,
+    "points": 40,
+    "spots": 64,
+    "materials": 162,
+    "textures": 80
+  },
+  "seats": 7902,
+  "houses": 560,
+  "collision": [
+    {
+      "sector": "campo",
+      "speed": 0,
+      "medianMs": 0.0001430000002073939,
+      "p95Ms": 0.00025800000003073364
+    },
+    {
+      "sector": "campo",
+      "speed": 6,
+      "medianMs": 0.030648999999812077,
+      "p95Ms": 0.05654499999991458
+    },
+    {
+      "sector": "campo",
+      "speed": 12,
+      "medianMs": 0.0417250000000422,
+      "p95Ms": 0.06972099999984493
+    },
+    {
+      "sector": "campo",
+      "speed": 24,
+      "medianMs": 0.06893500000023778,
+      "p95Ms": 0.1294560000005731
+    },
+    {
+      "sector": "campo",
+      "speed": 36,
+      "medianMs": 0.10962099999960628,
+      "p95Ms": 0.22092200000042794
+    },
+    {
+      "sector": "perímetro",
+      "speed": 0,
+      "medianMs": 0.00007199999981821747,
+      "p95Ms": 0.00010599999950500205
+    },
+    {
+      "sector": "perímetro",
+      "speed": 6,
+      "medianMs": 0.03000300000076095,
+      "p95Ms": 0.0683260000005248
+    },
+    {
+      "sector": "perímetro",
+      "speed": 12,
+      "medianMs": 0.04129400000056194,
+      "p95Ms": 0.07202899999992951
+    },
+    {
+      "sector": "perímetro",
+      "speed": 24,
+      "medianMs": 0.06861699999990378,
+      "p95Ms": 0.11664600000040082
+    },
+    {
+      "sector": "perímetro",
+      "speed": 36,
+      "medianMs": 0.10929499999929249,
+      "p95Ms": 0.18384800000058021
+    },
+    {
+      "sector": "túnel",
+      "speed": 0,
+      "medianMs": 0.00007300000015675323,
+      "p95Ms": 0.0000959999997576233
+    },
+    {
+      "sector": "túnel",
+      "speed": 6,
+      "medianMs": 0.007254999999531719,
+      "p95Ms": 0.012144000000262167
+    },
+    {
+      "sector": "túnel",
+      "speed": 12,
+      "medianMs": 0.00787399999990157,
+      "p95Ms": 0.010218999999779044
+    },
+    {
+      "sector": "túnel",
+      "speed": 24,
+      "medianMs": 0.009917000000314147,
+      "p95Ms": 0.012581999999383697
+    },
+    {
+      "sector": "túnel",
+      "speed": 36,
+      "medianMs": 0.01496099999985745,
+      "p95Ms": 0.020556999999826076
+    }
+  ],
+  "renderedCalls": null,
+  "renderedTriangles": null,
+  "gpuFrameMs": null,
+  "iphoneFps": null
+}

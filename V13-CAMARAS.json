@@ -1,0 +1,16 @@
+{
+  "kind": "Posiciones propuestas para QA manual en un navegador con WebGL; no capturas ni correspondencia fotogramétrica medida.",
+  "profile": "low",
+  "resolution": "Fija; conservar el mismo tamaño de ventana y escala de píxel en ambas versiones",
+  "fovWalkDegrees": 66,
+  "eyeHeightMetres": 1.7,
+  "cameras": [
+    {"name":"Fachada oblicua", "reference":"IMG_5544", "position":[-111,1.7,55], "target":[-90,7,0], "night":false},
+    {"name":"Entrada frontal", "reference":"IMG_5545", "position":[-102,1.7,0], "target":[-93,2,0], "night":false},
+    {"name":"Portones de cerca", "reference":"IMG_5547", "position":[-96.8,1.7,1.2], "target":[-93,1.8,0], "night":false},
+    {"name":"Vestíbulo", "reference":"IMG_5548", "position":[-91.5,1.7,0], "target":[-80.6,2,0], "night":false},
+    {"name":"Rampa y escalera", "reference":"IMG_5552", "position":[-90,1.7,0], "target":[-82,1.5,0], "night":false},
+    {"name":"Entrada nocturna", "reference":"Adaptación nocturna", "position":[-100,1.7,6], "target":[-93,2,0], "night":true},
+    {"name":"Campo desde galería ampliada", "reference":"Cota propuesta +4.20 m", "position":[-71.499,5.9,-1], "target":[15,0.5,0], "night":false}
+  ]
+}

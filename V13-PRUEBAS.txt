@@ -1,0 +1,39 @@
+npm warn Unknown env config "http-proxy". This will stop working in the next major version of npm.
+
+> estadio-koster-3d@13.0.0 test
+> node tests.mjs && node boundary-tests.mjs && node expansion-tests.mjs && node interior-tests.mjs && node underground-tests.mjs && node geometry-check.mjs && node visibility-check.mjs && node --import ./scripts/register-tests.mjs smoke.mjs && node performance-tests.mjs && node environment-tests.mjs && node audio-tests.mjs && node refinement-tests.mjs && node aerial-tests.mjs && node entrance-tests.mjs
+
+PASS: 8628 stair steps, all three curved stands up/down, middle galleries, seating, rails, columns, CDM, benches, towers, boundaries.
+PASS: new main entrance connects exterior and middle concourse in both directions.
+PASS: 84 gate / surface-separation runs at 6/12/24/36 m/s; all static fences; occupied swing stops, reverses and resumes; moving visitor at 36 m/s.
+PASS: three exterior entries, separate lower/upper circulation, new tiers up/down, cabin door/glazing/wall/return; 528 new moat edge/end tests at 6/12/24/36 m/s.
+PASS: both dressing rooms, showers and toilet access, underground stairs/tunnel/exit/return; 36 collision runs through furniture and tunnel walls at 6/12/24/36 m/s.
+PASS: 36 complete return routes (24 both-room/field routes and 12 public routes), 14547 controller requests, 72 underground/well collision runs at 6/12/24/36 m/s and 60/10/8.3 FPS; stacked floors and moat levels.
+{"meshes":1153,"instances":44859,"triangles":3943213,"seats":7914,"projectors":4,"roofs":3}
+PASS: actual mesh raycasts agree with all staircase and gallery heights.
+PASS: neighbourhood, architecture lighting and independent scoreboard. Houses: 560
+PASS: actual raycasts through terrain holes onto water and bottom, containment walls, removed bridge, gate mesh transform, close/distant chain-link LOD and access lights.
+PASS: 73 actual floor/headroom rays in rooms, descent, below moat and exit; 0.25 m separation below moat slab; real side walls and clear track. GPU appearance not tested.
+[{"id":"main","samples":15,"clearCentre":14,"allFiveClear":3,"clearRays":58,"rays":75},{"id":"north","samples":15,"clearCentre":13,"allFiveClear":4,"clearRays":62,"rays":75},{"id":"south","samples":15,"clearCentre":15,"allFiveClear":14,"clearRays":73,"rays":75}]
+PASS: 225 real-geometry sightline rays; any blocked samples are documented, not a guarantee for every seat.
+PASS: app initialization, WASD, simultaneous two-pointer movement/look, release and braking, three climbs/descents, destinations, lighting, quality, aerial and reset to new entry. Graphics mocked; no GPU/visual assertion.
+PASS: public entrance gate through actual keyboard/button handlers; independent of player gate.
+PASS: night reference view, independent screen control, 6/12/24/36 m/s presets.
+PASS: floodlight adjustment, bounded intensity, exposure and day/night independence.
+PASS: 12 m/s traversal remains stable with 100 ms frames.
+PASS: below-ground destination, crossing under moat, exit stairs, contextual gate, keyboard E, touch/button opening/closing and return. Renderer simulated.
+PASS: independent stand lighting and retained day/night preference, cabin destination and doorway at the correct upper height, Shift at 36 m/s. Graphics still mocked.
+PASS: facilities and tunnel destinations, tunnel exit, stand dimmer ratio, unchanged field lighting and retained dimmer after day/night. Renderer simulated.
+PASS: exterior switch independent of field/stands, retained night preference and walk/aerial depth transition through app handlers.
+PASS: 93 lights baked in mobile; five model lights remain. High quality keeps exterior baked; independent exterior/night/stand/interior controls.
+PASS: coefficient dimensions, available WebGL2 attribute slots, shader hook construction (no GPU compilation), seat/urban LOD and close detail restored.
+PASS: real interval FPS arithmetic, renderer counters, missing GPU timing explicit, background reset and bounded adaptive resolution.
+PASS: 560 buildings clear of roads, named T junctions, shared props, 2560 impacts at 6/12/24/36 m/s, perimeter loop and 12,000 broad-phase queries.
+PASS: opt-in lifecycle, 3 local WAVs, separate volume, grass/pavement steps, tunnel routing, 2-voice cap, hidden suspension, return, no teleport step, cached assets and load failure. Web Audio nodes mocked.
+PASS: 12 speed/frame-rate scenarios, 3 s stationary silence, four distinct WAV slots per surface with silent seams. Audible quality not evaluated by these tests.
+PASS: continuous metric centre circle, both clipped penalty arcs, areas, spots and unpainted turf. No GPU aliasing claim.
+PASS: 74 wall-side rays verify stripe separation, non-emissive matte paint, pitch/water shader construction and cabin furniture collision. Shader compilation and appearance require GPU.
+PASS: hint expires, previous hints stay hidden, hide/restore/Escape, scroll arrows and help. DOM helper only.
+PASS: 40 reservation corner projections; portrait/landscape, bounded zoom, walk near reset. Min 24-bit modeled depth separation: 41.1 steps. Mathematical projection, not GPU evidence.
+PASS: 7 single-layer ground rays, 4 upright banks / 80 aimed housings, 12 unobstructed plaques, 22 street and 20 facade sources. Appearance still needs WebGL.
+{"kind":"CPU route logic and rays against actual Three.js meshes; no GPU rendering","returnRoutes":24,"collisionCases":192,"sweptGateCases":4,"floorAndCeilingSamples":116,"minimumSampledHeadroom":2.7100000417232515,"forecourtSingleLayerSamples":20,"publicGateTransforms":10}

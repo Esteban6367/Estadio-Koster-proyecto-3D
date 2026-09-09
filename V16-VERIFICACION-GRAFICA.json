@@ -1,0 +1,16 @@
+{
+  "date": "2026-09-09",
+  "base": "e9e586b554e53a02276475943cd683fba9f9fcd2",
+  "webgl2": false,
+  "observedError": "A WebGL context could not be created; GL_VENDOR = Disabled, GL_RENDERER = Disabled; Error creating WebGL context.",
+  "renderedVersion": null,
+  "real3dScreenshots": [],
+  "gpuFps": null,
+  "iphonePhysicalTest": false,
+  "iphoneFps": null,
+  "logicAndMeshTests": "V16-PRUEBAS.txt",
+  "cpuProfiles": ["V16-CPU-ANTES.json", "V16-CPU-DESPUES.json"],
+  "sameCameraFrustumProfiles": ["V16-VISTAS-ANTES.json", "V16-VISTAS-DESPUES.json"],
+  "pending": ["Renderizado GPU y comparaciones desde las referencias", "Verificación visual del giro de portones, puerta derecha y encuentros", "Acabado y contraste de día/noche", "Recorrido real de PC e iPhone, FPS y temperatura"],
+  "diagrams": "Planta y cortes SVG; son dibujos del modelo, no capturas WebGL."
+}

@@ -1,0 +1,18 @@
+{
+  "date": "2026-09-09",
+  "environment": "Navegador remoto de esta sesión; vista local de Sites",
+  "webgl2": false,
+  "observedText": "No se pudo iniciar el recorrido 3D. Probá con un navegador compatible con WebGL 2.",
+  "real3dScreenshots": [],
+  "real3dVideo": null,
+  "iphonePhysicalTest": false,
+  "iphoneFps": null,
+  "pending": [
+    "Compilación GPU de shaders y renderizado del modelo",
+    "Comparación visual de día y de noche desde las cinco referencias nuevas y la entrada",
+    "Visibilidad perceptual, reflejos, aliasing, materiales y luz del pasillo",
+    "Recorrido con controles reales en PC e iPhone; cadencia y sonido",
+    "FPS, tiempos GPU, uso de memoria y calentamiento en iPhone 13"
+  ],
+  "diagrams": "SVG inspeccionados visualmente en navegador. Son diagramas del modelo, no capturas WebGL."
+}

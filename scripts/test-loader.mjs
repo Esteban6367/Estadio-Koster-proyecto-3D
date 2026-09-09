@@ -1,0 +1,1 @@
+export async function resolve(specifier,context,nextResolve){if(specifier==='./three.module.min.js'&&context.parentURL?.endsWith('/dist/app.js'))return{url:new URL('./test-renderer.mjs',import.meta.url).href,shortCircuit:true};return nextResolve(specifier,context);}

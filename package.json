@@ -1,0 +1,14 @@
+{
+  "name": "estadio-koster-3d",
+  "version": "16.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node tests.mjs && node boundary-tests.mjs && node expansion-tests.mjs && node interior-tests.mjs && node underground-tests.mjs && node geometry-check.mjs && node visibility-check.mjs && node --import ./scripts/register-tests.mjs smoke.mjs && node performance-tests.mjs && node environment-tests.mjs && node audio-tests.mjs && node refinement-tests.mjs && node aerial-tests.mjs && node entrance-tests.mjs",
+    "dev": "vite",
+    "bake": "node scripts/bake-lighting.mjs"
+  },
+  "devDependencies": {
+    "vite": "6.1.0"
+  }
+}

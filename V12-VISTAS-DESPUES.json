@@ -1,0 +1,71 @@
+{
+  "kind": "CPU frustum candidate estimates. Not rendered draw calls, not GPU timings, no shadows included.",
+  "profile": "low",
+  "version": "12.0.0",
+  "viewport": [
+    1536,
+    864
+  ],
+  "rows": [
+    {
+      "camera": "referencia",
+      "candidateDrawables": 457,
+      "candidateTriangles": 660000,
+      "candidateLines": 0
+    },
+    {
+      "camera": "campo",
+      "candidateDrawables": 266,
+      "candidateTriangles": 439436,
+      "candidateLines": 0
+    },
+    {
+      "camera": "principal",
+      "candidateDrawables": 316,
+      "candidateTriangles": 671752,
+      "candidateLines": 0
+    },
+    {
+      "camera": "túnel",
+      "candidateDrawables": 317,
+      "candidateTriangles": 676710,
+      "candidateLines": 0
+    },
+    {
+      "camera": "CDM",
+      "candidateDrawables": 115,
+      "candidateTriangles": 154604,
+      "candidateLines": 48
+    },
+    {
+      "camera": "calle",
+      "candidateDrawables": 100,
+      "candidateTriangles": 252085,
+      "candidateLines": 48
+    },
+    {
+      "camera": "norte exterior",
+      "candidateDrawables": 466,
+      "candidateTriangles": 1131526,
+      "candidateLines": 0
+    },
+    {
+      "camera": "sur exterior",
+      "candidateDrawables": 484,
+      "candidateTriangles": 1157748,
+      "candidateLines": 24
+    },
+    {
+      "camera": "este exterior",
+      "candidateDrawables": 74,
+      "candidateTriangles": 69253,
+      "candidateLines": 48
+    },
+    {
+      "camera": "vestuario",
+      "candidateDrawables": 172,
+      "candidateTriangles": 757089,
+      "candidateLines": 48
+    }
+  ]
+}

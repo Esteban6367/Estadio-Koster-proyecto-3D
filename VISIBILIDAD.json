@@ -1,0 +1,355 @@
+{
+  "method": "CPU raycasts against actual model; seated eyes 1.20 m above rows; 5 screen targets per point. No people, GPU or legibility assertion.",
+  "screen": {
+    "position": [
+      0,
+      13.18,
+      -109.92
+    ],
+    "width": 10.6,
+    "height": 3
+  },
+  "sectors": [
+    {
+      "id": "main",
+      "samples": 15,
+      "clearCentre": 14,
+      "allFiveClear": 7,
+      "clearRays": 62,
+      "rays": 75
+    },
+    {
+      "id": "north",
+      "samples": 15,
+      "clearCentre": 13,
+      "allFiveClear": 4,
+      "clearRays": 62,
+      "rays": 75
+    },
+    {
+      "id": "south",
+      "samples": 15,
+      "clearCentre": 15,
+      "allFiveClear": 10,
+      "clearRays": 65,
+      "rays": 75
+    }
+  ],
+  "rows": [
+    {
+      "stand": "main",
+      "u": -34.8,
+      "d": 8,
+      "clear": 3,
+      "centre": true
+    },
+    {
+      "stand": "main",
+      "u": -18.8,
+      "d": 8,
+      "clear": 5,
+      "centre": true
+    },
+    {
+      "stand": "main",
+      "u": -3.3,
+      "d": 8,
+      "clear": 5,
+      "centre": true
+    },
+    {
+      "stand": "main",
+      "u": 14.2,
+      "d": 8,
+      "clear": 5,
+      "centre": true
+    },
+    {
+      "stand": "main",
+      "u": 31.3,
+      "d": 8,
+      "clear": 5,
+      "centre": true
+    },
+    {
+      "stand": "main",
+      "u": -34.8,
+      "d": 18,
+      "clear": 5,
+      "centre": true
+    },
+    {
+      "stand": "main",
+      "u": -18.8,
+      "d": 18,
+      "clear": 5,
+      "centre": true
+    },
+    {
+      "stand": "main",
+      "u": -3.3,
+      "d": 18,
+      "clear": 4,
+      "centre": true
+    },
+    {
+      "stand": "main",
+      "u": 14.2,
+      "d": 18,
+      "clear": 4,
+      "centre": true
+    },
+    {
+      "stand": "main",
+      "u": 31.3,
+      "d": 18,
+      "clear": 4,
+      "centre": true
+    },
+    {
+      "stand": "main",
+      "u": -34.8,
+      "d": 28.1,
+      "clear": 3,
+      "centre": true
+    },
+    {
+      "stand": "main",
+      "u": -18.8,
+      "d": 28.1,
+      "clear": 3,
+      "centre": true
+    },
+    {
+      "stand": "main",
+      "u": -3.3,
+      "d": 28.1,
+      "clear": 5,
+      "centre": true
+    },
+    {
+      "stand": "main",
+      "u": 14.2,
+      "d": 28.1,
+      "clear": 3,
+      "centre": false
+    },
+    {
+      "stand": "main",
+      "u": 31.3,
+      "d": 28.1,
+      "clear": 3,
+      "centre": true
+    },
+    {
+      "stand": "north",
+      "u": -34.8,
+      "d": 8,
+      "clear": 4,
+      "centre": true
+    },
+    {
+      "stand": "north",
+      "u": -18.8,
+      "d": 8,
+      "clear": 4,
+      "centre": true
+    },
+    {
+      "stand": "north",
+      "u": -3.3,
+      "d": 8,
+      "clear": 5,
+      "centre": true
+    },
+    {
+      "stand": "north",
+      "u": 14.2,
+      "d": 8,
+      "clear": 4,
+      "centre": true
+    },
+    {
+      "stand": "north",
+      "u": 31.3,
+      "d": 8,
+      "clear": 4,
+      "centre": true
+    },
+    {
+      "stand": "north",
+      "u": -34.8,
+      "d": 15.5,
+      "clear": 3,
+      "centre": true
+    },
+    {
+      "stand": "north",
+      "u": -18.8,
+      "d": 15.5,
+      "clear": 4,
+      "centre": true
+    },
+    {
+      "stand": "north",
+      "u": -3.3,
+      "d": 15.5,
+      "clear": 5,
+      "centre": true
+    },
+    {
+      "stand": "north",
+      "u": 14.2,
+      "d": 15.5,
+      "clear": 4,
+      "centre": true
+    },
+    {
+      "stand": "north",
+      "u": 31.3,
+      "d": 15.5,
+      "clear": 3,
+      "centre": true
+    },
+    {
+      "stand": "north",
+      "u": -34.8,
+      "d": 24.5,
+      "clear": 4,
+      "centre": false
+    },
+    {
+      "stand": "north",
+      "u": -18.8,
+      "d": 24.5,
+      "clear": 5,
+      "centre": true
+    },
+    {
+      "stand": "north",
+      "u": -3.3,
+      "d": 24.5,
+      "clear": 4,
+      "centre": true
+    },
+    {
+      "stand": "north",
+      "u": 14.2,
+      "d": 24.5,
+      "clear": 5,
+      "centre": true
+    },
+    {
+      "stand": "north",
+      "u": 31.3,
+      "d": 24.5,
+      "clear": 4,
+      "centre": false
+    },
+    {
+      "stand": "south",
+      "u": -34.8,
+      "d": 8,
+      "clear": 5,
+      "centre": true
+    },
+    {
+      "stand": "south",
+      "u": -18.8,
+      "d": 8,
+      "clear": 5,
+      "centre": true
+    },
+    {
+      "stand": "south",
+      "u": -3.3,
+      "d": 8,
+      "clear": 5,
+      "centre": true
+    },
+    {
+      "stand": "south",
+      "u": 14.2,
+      "d": 8,
+      "clear": 5,
+      "centre": true
+    },
+    {
+      "stand": "south",
+      "u": 31.3,
+      "d": 8,
+      "clear": 5,
+      "centre": true
+    },
+    {
+      "stand": "south",
+      "u": -34.8,
+      "d": 15.5,
+      "clear": 5,
+      "centre": true
+    },
+    {
+      "stand": "south",
+      "u": -18.8,
+      "d": 15.5,
+      "clear": 5,
+      "centre": true
+    },
+    {
+      "stand": "south",
+      "u": -3.3,
+      "d": 15.5,
+      "clear": 5,
+      "centre": true
+    },
+    {
+      "stand": "south",
+      "u": 14.2,
+      "d": 15.5,
+      "clear": 5,
+      "centre": true
+    },
+    {
+      "stand": "south",
+      "u": 31.3,
+      "d": 15.5,
+      "clear": 5,
+      "centre": true
+    },
+    {
+      "stand": "south",
+      "u": -34.8,
+      "d": 24.5,
+      "clear": 3,
+      "centre": true
+    },
+    {
+      "stand": "south",
+      "u": -18.8,
+      "d": 24.5,
+      "clear": 3,
+      "centre": true
+    },
+    {
+      "stand": "south",
+      "u": -3.3,
+      "d": 24.5,
+      "clear": 3,
+      "centre": true
+    },
+    {
+      "stand": "south",
+      "u": 14.2,
+      "d": 24.5,
+      "clear": 3,
+      "centre": true
+    },
+    {
+      "stand": "south",
+      "u": 31.3,
+      "d": 24.5,
+      "clear": 3,
+      "centre": true
+    }
+  ]
+}

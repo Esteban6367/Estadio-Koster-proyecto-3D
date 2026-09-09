@@ -1,0 +1,47 @@
+{
+  "kind": "CPU frustum candidate estimates. Not rendered draw calls, not GPU timings, no shadows included.",
+  "profile": "low",
+  "version": 9,
+  "viewport": [
+    1536,
+    864
+  ],
+  "rows": [
+    {
+      "camera": "referencia",
+      "candidateDrawables": 439,
+      "candidateTriangles": 647715,
+      "candidateLines": 0
+    },
+    {
+      "camera": "campo",
+      "candidateDrawables": 251,
+      "candidateTriangles": 414507,
+      "candidateLines": 0
+    },
+    {
+      "camera": "principal",
+      "candidateDrawables": 296,
+      "candidateTriangles": 637731,
+      "candidateLines": 0
+    },
+    {
+      "camera": "túnel",
+      "candidateDrawables": 299,
+      "candidateTriangles": 641759,
+      "candidateLines": 0
+    },
+    {
+      "camera": "CDM",
+      "candidateDrawables": 116,
+      "candidateTriangles": 102901,
+      "candidateLines": 0
+    },
+    {
+      "camera": "calle",
+      "candidateDrawables": 101,
+      "candidateTriangles": 226222,
+      "candidateLines": 0
+    }
+  ]
+}

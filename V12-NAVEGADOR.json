@@ -1,0 +1,31 @@
+{
+  "date": "2026-09-08",
+  "environment": "Chrome remoto, vista previa local. Sin iPhone físico.",
+  "webgl": {
+    "timeUTC": "18:25:20",
+    "created": false,
+    "vendor": "Disabled",
+    "renderer": "Disabled",
+    "error": "BindToCurrentSequence failed; Error creating WebGL context",
+    "real3DScreenshots": 0,
+    "gpuFrameMs": null,
+    "iphoneFps": null
+  },
+  "webAudio": {
+    "date": "2026-09-08T18:25:54.273Z",
+    "kind": "Web Audio real, con activación mediante botón; sin evaluación auditiva",
+    "initiallyDisabled": true,
+    "running": "running",
+    "sampleRate": 44100,
+    "buffers": [{"duration":2,"channels":1},{"duration":2,"channels":1},{"duration":8,"channels":1}],
+    "maxVoices": 1,
+    "steps": 12,
+    "stoppedSilence": true,
+    "endedVoices": 0,
+    "hiddenState": "suspended",
+    "resumedState": "running",
+    "disabledState": "suspended",
+    "finalVoices": 0,
+    "pass": true
+  }
+}

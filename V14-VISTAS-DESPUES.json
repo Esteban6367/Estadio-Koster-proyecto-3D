@@ -1,0 +1,582 @@
+{
+  "kind": "CPU frustum candidates, all instances in intersecting batches; not real draw calls or FPS. Identical cameras before/after. No dynamic shadow passes.",
+  "version": "14.0.0",
+  "rows": [
+    {
+      "view": "portones",
+      "position": [
+        -94.99879017013232,
+        1.7,
+        -1.0000000000000024
+      ],
+      "yaw": -1.5707963267948966,
+      "viewport": [
+        390,
+        844
+      ],
+      "quality": "low",
+      "candidateDrawables": 241,
+      "candidateTriangles": 891339
+    },
+    {
+      "view": "vestíbulo",
+      "position": [
+        -87.99879017013232,
+        1.7,
+        -1.000000000000002
+      ],
+      "yaw": -1.5707963267948966,
+      "viewport": [
+        390,
+        844
+      ],
+      "quality": "low",
+      "candidateDrawables": 218,
+      "candidateTriangles": 936317
+    },
+    {
+      "view": "puerta derecha",
+      "position": [
+        -89.2,
+        1.7,
+        -2.0329136865846065e-15
+      ],
+      "yaw": 3.141592653589793,
+      "viewport": [
+        390,
+        844
+      ],
+      "quality": "low",
+      "candidateDrawables": 152,
+      "candidateTriangles": 773684
+    },
+    {
+      "view": "rampa frontal",
+      "position": [
+        -83.99879017013232,
+        1.7,
+        -1.0000000000000018
+      ],
+      "yaw": -1.5707963267948966,
+      "viewport": [
+        390,
+        844
+      ],
+      "quality": "low",
+      "candidateDrawables": 215,
+      "candidateTriangles": 1004647
+    },
+    {
+      "view": "lateral izquierdo",
+      "position": [
+        -84.65035916824196,
+        1.7,
+        -17
+      ],
+      "yaw": -1.5707963267948966,
+      "viewport": [
+        390,
+        844
+      ],
+      "quality": "low",
+      "candidateDrawables": 219,
+      "candidateTriangles": 935965
+    },
+    {
+      "view": "lateral derecho",
+      "position": [
+        -84.65035916824196,
+        1.7,
+        17
+      ],
+      "yaw": -1.5707963267948966,
+      "viewport": [
+        390,
+        844
+      ],
+      "quality": "low",
+      "candidateDrawables": 209,
+      "candidateTriangles": 938957
+    },
+    {
+      "view": "portones",
+      "position": [
+        -94.99879017013232,
+        1.7,
+        -1.0000000000000024
+      ],
+      "yaw": -1.5707963267948966,
+      "viewport": [
+        390,
+        844
+      ],
+      "quality": "medium",
+      "candidateDrawables": 242,
+      "candidateTriangles": 1032163
+    },
+    {
+      "view": "vestíbulo",
+      "position": [
+        -87.99879017013232,
+        1.7,
+        -1.000000000000002
+      ],
+      "yaw": -1.5707963267948966,
+      "viewport": [
+        390,
+        844
+      ],
+      "quality": "medium",
+      "candidateDrawables": 220,
+      "candidateTriangles": 1038117
+    },
+    {
+      "view": "puerta derecha",
+      "position": [
+        -89.2,
+        1.7,
+        -2.0329136865846065e-15
+      ],
+      "yaw": 3.141592653589793,
+      "viewport": [
+        390,
+        844
+      ],
+      "quality": "medium",
+      "candidateDrawables": 161,
+      "candidateTriangles": 891752
+    },
+    {
+      "view": "rampa frontal",
+      "position": [
+        -83.99879017013232,
+        1.7,
+        -1.0000000000000018
+      ],
+      "yaw": -1.5707963267948966,
+      "viewport": [
+        390,
+        844
+      ],
+      "quality": "medium",
+      "candidateDrawables": 217,
+      "candidateTriangles": 1011759
+    },
+    {
+      "view": "lateral izquierdo",
+      "position": [
+        -84.65035916824196,
+        1.7,
+        -17
+      ],
+      "yaw": -1.5707963267948966,
+      "viewport": [
+        390,
+        844
+      ],
+      "quality": "medium",
+      "candidateDrawables": 221,
+      "candidateTriangles": 943077
+    },
+    {
+      "view": "lateral derecho",
+      "position": [
+        -84.65035916824196,
+        1.7,
+        17
+      ],
+      "yaw": -1.5707963267948966,
+      "viewport": [
+        390,
+        844
+      ],
+      "quality": "medium",
+      "candidateDrawables": 212,
+      "candidateTriangles": 946117
+    },
+    {
+      "view": "portones",
+      "position": [
+        -94.99879017013232,
+        1.7,
+        -1.0000000000000024
+      ],
+      "yaw": -1.5707963267948966,
+      "viewport": [
+        390,
+        844
+      ],
+      "quality": "high",
+      "candidateDrawables": 270,
+      "candidateTriangles": 1052027
+    },
+    {
+      "view": "vestíbulo",
+      "position": [
+        -87.99879017013232,
+        1.7,
+        -1.000000000000002
+      ],
+      "yaw": -1.5707963267948966,
+      "viewport": [
+        390,
+        844
+      ],
+      "quality": "high",
+      "candidateDrawables": 247,
+      "candidateTriangles": 1048993
+    },
+    {
+      "view": "puerta derecha",
+      "position": [
+        -89.2,
+        1.7,
+        -2.0329136865846065e-15
+      ],
+      "yaw": 3.141592653589793,
+      "viewport": [
+        390,
+        844
+      ],
+      "quality": "high",
+      "candidateDrawables": 180,
+      "candidateTriangles": 899274
+    },
+    {
+      "view": "rampa frontal",
+      "position": [
+        -83.99879017013232,
+        1.7,
+        -1.0000000000000018
+      ],
+      "yaw": -1.5707963267948966,
+      "viewport": [
+        390,
+        844
+      ],
+      "quality": "high",
+      "candidateDrawables": 247,
+      "candidateTriangles": 1022757
+    },
+    {
+      "view": "lateral izquierdo",
+      "position": [
+        -84.65035916824196,
+        1.7,
+        -17
+      ],
+      "yaw": -1.5707963267948966,
+      "viewport": [
+        390,
+        844
+      ],
+      "quality": "high",
+      "candidateDrawables": 253,
+      "candidateTriangles": 959179
+    },
+    {
+      "view": "lateral derecho",
+      "position": [
+        -84.65035916824196,
+        1.7,
+        17
+      ],
+      "yaw": -1.5707963267948966,
+      "viewport": [
+        390,
+        844
+      ],
+      "quality": "high",
+      "candidateDrawables": 246,
+      "candidateTriangles": 964847
+    },
+    {
+      "view": "portones",
+      "position": [
+        -94.99879017013232,
+        1.7,
+        -1.0000000000000024
+      ],
+      "yaw": -1.5707963267948966,
+      "viewport": [
+        1536,
+        864
+      ],
+      "quality": "low",
+      "candidateDrawables": 507,
+      "candidateTriangles": 1454201
+    },
+    {
+      "view": "vestíbulo",
+      "position": [
+        -87.99879017013232,
+        1.7,
+        -1.000000000000002
+      ],
+      "yaw": -1.5707963267948966,
+      "viewport": [
+        1536,
+        864
+      ],
+      "quality": "low",
+      "candidateDrawables": 447,
+      "candidateTriangles": 1492341
+    },
+    {
+      "view": "puerta derecha",
+      "position": [
+        -89.2,
+        1.7,
+        -2.0329136865846065e-15
+      ],
+      "yaw": 3.141592653589793,
+      "viewport": [
+        1536,
+        864
+      ],
+      "quality": "low",
+      "candidateDrawables": 284,
+      "candidateTriangles": 969007
+    },
+    {
+      "view": "rampa frontal",
+      "position": [
+        -83.99879017013232,
+        1.7,
+        -1.0000000000000018
+      ],
+      "yaw": -1.5707963267948966,
+      "viewport": [
+        1536,
+        864
+      ],
+      "quality": "low",
+      "candidateDrawables": 425,
+      "candidateTriangles": 1443473
+    },
+    {
+      "view": "lateral izquierdo",
+      "position": [
+        -84.65035916824196,
+        1.7,
+        -17
+      ],
+      "yaw": -1.5707963267948966,
+      "viewport": [
+        1536,
+        864
+      ],
+      "quality": "low",
+      "candidateDrawables": 416,
+      "candidateTriangles": 1399721
+    },
+    {
+      "view": "lateral derecho",
+      "position": [
+        -84.65035916824196,
+        1.7,
+        17
+      ],
+      "yaw": -1.5707963267948966,
+      "viewport": [
+        1536,
+        864
+      ],
+      "quality": "low",
+      "candidateDrawables": 413,
+      "candidateTriangles": 1400081
+    },
+    {
+      "view": "portones",
+      "position": [
+        -94.99879017013232,
+        1.7,
+        -1.0000000000000024
+      ],
+      "yaw": -1.5707963267948966,
+      "viewport": [
+        1536,
+        864
+      ],
+      "quality": "medium",
+      "candidateDrawables": 513,
+      "candidateTriangles": 1665523
+    },
+    {
+      "view": "vestíbulo",
+      "position": [
+        -87.99879017013232,
+        1.7,
+        -1.000000000000002
+      ],
+      "yaw": -1.5707963267948966,
+      "viewport": [
+        1536,
+        864
+      ],
+      "quality": "medium",
+      "candidateDrawables": 454,
+      "candidateTriangles": 1735039
+    },
+    {
+      "view": "puerta derecha",
+      "position": [
+        -89.2,
+        1.7,
+        -2.0329136865846065e-15
+      ],
+      "yaw": 3.141592653589793,
+      "viewport": [
+        1536,
+        864
+      ],
+      "quality": "medium",
+      "candidateDrawables": 295,
+      "candidateTriangles": 1181789
+    },
+    {
+      "view": "rampa frontal",
+      "position": [
+        -83.99879017013232,
+        1.7,
+        -1.0000000000000018
+      ],
+      "yaw": -1.5707963267948966,
+      "viewport": [
+        1536,
+        864
+      ],
+      "quality": "medium",
+      "candidateDrawables": 432,
+      "candidateTriangles": 1591483
+    },
+    {
+      "view": "lateral izquierdo",
+      "position": [
+        -84.65035916824196,
+        1.7,
+        -17
+      ],
+      "yaw": -1.5707963267948966,
+      "viewport": [
+        1536,
+        864
+      ],
+      "quality": "medium",
+      "candidateDrawables": 426,
+      "candidateTriangles": 1545163
+    },
+    {
+      "view": "lateral derecho",
+      "position": [
+        -84.65035916824196,
+        1.7,
+        17
+      ],
+      "yaw": -1.5707963267948966,
+      "viewport": [
+        1536,
+        864
+      ],
+      "quality": "medium",
+      "candidateDrawables": 422,
+      "candidateTriangles": 1541763
+    },
+    {
+      "view": "portones",
+      "position": [
+        -94.99879017013232,
+        1.7,
+        -1.0000000000000024
+      ],
+      "yaw": -1.5707963267948966,
+      "viewport": [
+        1536,
+        864
+      ],
+      "quality": "high",
+      "candidateDrawables": 574,
+      "candidateTriangles": 1871507
+    },
+    {
+      "view": "vestíbulo",
+      "position": [
+        -87.99879017013232,
+        1.7,
+        -1.000000000000002
+      ],
+      "yaw": -1.5707963267948966,
+      "viewport": [
+        1536,
+        864
+      ],
+      "quality": "high",
+      "candidateDrawables": 518,
+      "candidateTriangles": 1771159
+    },
+    {
+      "view": "puerta derecha",
+      "position": [
+        -89.2,
+        1.7,
+        -2.0329136865846065e-15
+      ],
+      "yaw": 3.141592653589793,
+      "viewport": [
+        1536,
+        864
+      ],
+      "quality": "high",
+      "candidateDrawables": 351,
+      "candidateTriangles": 1267619
+    },
+    {
+      "view": "rampa frontal",
+      "position": [
+        -83.99879017013232,
+        1.7,
+        -1.0000000000000018
+      ],
+      "yaw": -1.5707963267948966,
+      "viewport": [
+        1536,
+        864
+      ],
+      "quality": "high",
+      "candidateDrawables": 500,
+      "candidateTriangles": 1627857
+    },
+    {
+      "view": "lateral izquierdo",
+      "position": [
+        -84.65035916824196,
+        1.7,
+        -17
+      ],
+      "yaw": -1.5707963267948966,
+      "viewport": [
+        1536,
+        864
+      ],
+      "quality": "high",
+      "candidateDrawables": 496,
+      "candidateTriangles": 1741273
+    },
+    {
+      "view": "lateral derecho",
+      "position": [
+        -84.65035916824196,
+        1.7,
+        17
+      ],
+      "yaw": -1.5707963267948966,
+      "viewport": [
+        1536,
+        864
+      ],
+      "quality": "high",
+      "candidateDrawables": 497,
+      "candidateTriangles": 1590539
+    }
+  ]
+}

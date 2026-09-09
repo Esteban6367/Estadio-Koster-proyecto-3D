@@ -1,0 +1,13 @@
+Baked 0 / 1140
+Baked 100 / 1140
+Baked 200 / 1140
+Baked 300 / 1140
+Baked 400 / 1140
+Baked 500 / 1140
+Baked 600 / 1140
+Baked 700 / 1140
+Baked 800 / 1140
+Baked 900 / 1140
+Baked 1000 / 1140
+Baked 1100 / 1140
+{"bytes":10126188,"meshes":1140,"samples":526115,"rays":1595476,"seconds":27.536790324000002,"channels":[54,28,17]}
